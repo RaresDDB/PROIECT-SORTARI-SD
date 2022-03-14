@@ -117,4 +117,5 @@ int main()
         cout<<"Algoritmul nativ de sortare dureaza "<<durata.count()<<" microsecunde"<<endl;
     }
 
-    return
+    return 0;
+}
